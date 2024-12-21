@@ -1,0 +1,2 @@
+# BBdown_LazyPackage
+BBDown懒人包，帮助亲朋好友不会配置ffmpeg路径以及不会命令行的人简单使用BBDown的解决方案
